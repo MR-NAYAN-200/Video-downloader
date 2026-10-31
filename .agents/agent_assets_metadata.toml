@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "XsgF8i3KgD2mn40nDQQLN"
+uri = "file://generated-artifacts/video-saver-android-source-20261031.zip"
+type = "unspecified"
+title = "Video Saver Android source ZIP"
+description = "Kotlin Android project, Gradle wrapper, README, and GitHub APK workflow. Ready to download and upload to your GitHub repository."
+logical_id = "89710d98-08e0-4d2b-b882-2dabadb44a80"
+content_hash = "sha256:3bcdf894229478fe0af511f8b9bac7a14ca0407af943e9800c8466baf207be63"
+size = 57096
+mtime_ms = 1793456183165
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:2afb6521-b71e-42b9-a0cc-b39ed2fbb179/89710d98-08e0-4d2b-b882-2dabadb44a80/4894fce6-1a8a-42a5-8f27-cc4562b104f5"
+storage_version_token = "1793456191418948"
+content_type = "application/octet-stream"

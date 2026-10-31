@@ -1,0 +1,12 @@
+node_modules
+.wwebjs_cache
+.wwebjs_auth
+package-lock.json
+
+# Android / Gradle
+.gradle/
+local.properties
+**/build/
+*.iml
+.idea/
+/generated-artifacts/
