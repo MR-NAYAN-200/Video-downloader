@@ -577,7 +577,7 @@ private fun ActiveDownloadsCard(
             Spacer(Modifier.width(10.dp))
             Column(Modifier.weight(1f)) {
                 Text(
-                    "$countটি download চলছে",
+                    "${count}টি download চলছে",
                     color = AppColors.text,
                     fontWeight = FontWeight.SemiBold,
                     fontSize = 13.sp,
